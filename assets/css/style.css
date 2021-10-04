@@ -7502,7 +7502,7 @@ button.mfp-close:hover {
   height: 12px;
   margin: 5px 7px;
   background: transparent;
-  border: 1px solid #527a99;
+  border: 1px solid #BA2E29;
   border-radius: 50%;
   opacity: 1;
   display: block;
@@ -7511,7 +7511,7 @@ button.mfp-close:hover {
 }
 
 .owl-theme .owl-dots .owl-dot.active span {
-  background: #527a99;
+  background: #BA2E29;
   opacity: 1;
 }
 
